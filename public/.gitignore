@@ -1,31 +1,24 @@
-.DS_Store
+public/.DS_Store
 
-application/cache/*
-!application/cache/index.html
+public/application/cache/*
+public/!application/cache/index.html
 
-application/logs/*
-!application/logs/index.html
+public/application/logs/*
+public/!application/logs/index.html
 
-!application/*/.htaccess
+public/!application/*/.htaccess
 
-composer.lock
+public/composer.lock
 
-user_guide_src/build/*
-user_guide_src/cilexer/build/*
-user_guide_src/cilexer/dist/*
-user_guide_src/cilexer/pycilexer.egg-info/*
-/vendor/
+public/user_guide_src/build/*
+public/user_guide_src/cilexer/build/*
+public/user_guide_src/cilexer/dist/*
+public/user_guide_src/cilexer/pycilexer.egg-info/*
+public//vendor/
+
+dev/*
 
 # IDE Files
 #-------------------------
 /nbproject/
 .idea/*
-
-## Sublime Text cache files
-*.tmlanguage.cache
-*.tmPreferences.cache
-*.stTheme.cache
-*.sublime-workspace
-*.sublime-project
-/tests/tests/
-/tests/results/
