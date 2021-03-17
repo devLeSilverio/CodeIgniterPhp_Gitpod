@@ -8,7 +8,7 @@ class Template{
         //carrega o conteudo da header
         $CI->load->view("template/header",$data);
         //carrega o conteudo da pagina (main)  
-        $CI->load->view("template/main",$data);  
+        $CI->load->view($view,$data);  
         //carrega o rodape 
         $CI->load->view("template/footer",$data);
         //carrega os scripts e fecha a pagina 
