@@ -19,7 +19,7 @@
 				</div>
 			</div>
 		</div>
-		<div class="col-2">
+		<div class="col-3">
 			<nav class="navbar navbar-expand-lg navbar-light bg-light">
 					<ul class="navbar-nav">
 						<li class="nav-item">
@@ -27,6 +27,9 @@
 						</li>
 						<li class="nav-item">
 							<a class="nav-link" href="/whoweare">About</a>
+						</li>
+						<li class="nav-item">
+							<a class="nav-link" href="/contato">Contato</a>
 						</li>
 					</ul>
 			</nav>
