@@ -1,8 +1,6 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 ?>
-
-
     <main>
 		<div class="row">
 			<div class="col-4 offset-2">
@@ -63,7 +61,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 			</div>
 			<div class="col-5">
 				<center><h4>Zuzu Angel (1921-1976) </h4></center>
-				<center><img src="/assets/imgs/zuzu_angel.jpg"  alt="Maria Quiteria" class="img-fluid" width="400px" height="300px"/></center>
+				<center><img src="<?= base_url() ?>/assets/imgs/zuzu_angel.jpg"  alt="Maria Quiteria" class="img-fluid" width="400px" height="300px"/></center>
 			</div>
 		</div>
 		<div class="row mt-4">

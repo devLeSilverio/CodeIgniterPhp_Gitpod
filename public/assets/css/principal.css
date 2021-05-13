@@ -6,7 +6,7 @@ body{
 }
 
 .display-8{
-	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
    border-radius: 25px;
    text-shadow: #FFF 0px 0px 5px, #FFF 0px 0px 10px, #FFF 0px 0px 15px, #FF2D95 0px 0px 20px, #FF2D95 0px 0px 30px, #FF2D95 0px 0px 40px, #FF2D95 0px 0px 50px, #FF2D95 0px 0px 75px, -18px -31px 7px rgba(0,0,0,0);
 }
@@ -17,3 +17,12 @@ body{
 .jumbotron img{
 	width: 100px;
 }
+
+.rodape{
+	background-color: rgb(245, 165, 245);
+	font-weight: 200;
+	font-family: cursive;
+	border-radius:30px;
+	padding-top:15px;
+}
+

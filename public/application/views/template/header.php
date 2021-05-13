@@ -18,5 +18,17 @@
 					<center><p class="lead">8 de Março é considerado o dia internacional da mulher</p></center>
 				</div>
 			</div>
-        </div>
-    </header>
+		</div>
+		<div class="col-2">
+			<nav class="navbar navbar-expand-lg navbar-light bg-light">
+					<ul class="navbar-nav">
+						<li class="nav-item">
+							<a class="nav-link" href="/principal">Home</a>
+						</li>
+						<li class="nav-item">
+							<a class="nav-link" href="/whoweare">About</a>
+						</li>
+					</ul>
+			</nav>
+		</div>
+	</header>
